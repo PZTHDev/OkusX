@@ -1,8 +1,17 @@
-# OkusX (beta 1.0)
+<img width="1377" height="882" alt="04-library" src="https://github.com/user-attachments/assets/1061a7a3-1378-4a16-8431-c1615537a69a" /><img width="1388" height="887" alt="03-game-page" src="https://github.com/user-attachments/assets/ee0d0421-6863-481d-ba61-aefebcc5767a" /># OkusX (beta 1.0)
 
 **[ไทย](#ไทย) · [English](#english)**
 
-<!-- Add screenshots here: main menu, accounts view, game page, settings, stickers -->
+## Menu
+
+<img width="1388" height="882" alt="01-main-menu" src="https://github.com/user-attachments/assets/ca1680f0-8118-4e7b-baac-f67f398e69cc" />
+<img width="1354" height="860" alt="02-accounts" src="https://github.com/user-attachments/assets/7d241bd6-f926-4da5-942b-b3e6ce0478fc" />
+<img width="1388" height="887" alt="03-game-page" src="https://github.com/user-attachments/assets/33570723-7cfd-478d-998c-7788a2f87fb4" />
+<img width="1377" height="882" alt="04-library" src="https://github.com/user-attachments/assets/b9ead8db-250d-4296-9617-0f72534f9220" />
+<img width="1380" height="869" alt="05-library-list" src="https://github.com/user-attachments/assets/394f9bc5-f97b-408f-bcc7-5c93b59873d0" />
+
+
+
 
 ---
 
