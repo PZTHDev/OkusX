@@ -1,4 +1,4 @@
-attachments/assets/ee0d0421-6863-481d-ba61-aefebcc5767a" /># OkusX (beta 1.0)
+
 
 **[ไทย](#ไทย) · [English](#english)**
 
