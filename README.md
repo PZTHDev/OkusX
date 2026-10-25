@@ -1,3 +1,4 @@
+<img width="1280" height="360" alt="banner" src="https://github.com/user-attachments/assets/efd195ee-cec0-43e4-9844-82abcaf9912c" />
 
 
 **[ไทย](#ไทย) · [English](#english)**
