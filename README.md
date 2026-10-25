@@ -1,4 +1,4 @@
-<img width="1377" height="882" alt="04-library" src="https://github.com/user-attachments/assets/1061a7a3-1378-4a16-8431-c1615537a69a" /><img width="1388" height="887" alt="03-game-page" src="https://github.com/user-attachments/assets/ee0d0421-6863-481d-ba61-aefebcc5767a" /># OkusX (beta 1.0)
+attachments/assets/ee0d0421-6863-481d-ba61-aefebcc5767a" /># OkusX (beta 1.0)
 
 **[ไทย](#ไทย) · [English](#english)**
 
